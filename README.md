@@ -1,15 +1,15 @@
 # Truth or Dare React
-A truth or dare web application made in React
+A truth or dare game application made with Unity3D
 
 ## Developer
 
 Luan
 
 ## Programming Languages
-HTML, CSS, Javascript (React.JS)
+C#
 
 ## Date
 
-January 10, 2021
+January 18, 2021
 
 # Enjoy and stay safe!
