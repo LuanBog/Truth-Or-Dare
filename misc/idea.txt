@@ -1,0 +1,33 @@
+Truth or dare
+
+Main:
+
+- Prompt on how many players there should be
+- Before the continuing into the game, ask the players on what intensity do they wanna play on
+- A point is given to the player who answered truthfuly or did the dare
+- The winning point or max point can be changed on the match's settings
+- A leaderboard would be shown every time a match ends
+
+Choosing player's turn: 
+
+- Clockwise (Depending on the order of players joined)
+- Counter-clockwise (Depending on the order of players joined)
+- Alphabetical 
+- Reversed Alphabetical 
+- Random
+- Previous Player can choose the next player
+- Free for all (they can choose whoever, even if the player choosing already played) 
+
+Match Settings:
+
+- Winning Point, Default: 7
+
+Intensities:
+
+1) Child - Funny and child friendly questions (Light Blue)
+2) Easy - It's starts to get a little hot in here (Blue)
+3) Spicy - Categories for couples, really really intense questions (Red)
+4) Party - If you're in a party and wanna get real hard, this is the category (Black)
+
+Design: Light weight and should be pleasing to the eye...
+- Design should change depending on your intensity. Design for each will be located above
